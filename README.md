@@ -36,3 +36,8 @@
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Nidhisha00&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
