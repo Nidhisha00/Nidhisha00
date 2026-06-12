@@ -41,3 +41,5 @@
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Nidhisha00&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Nidhisha00&theme=tokyonight&hide_border=false)
