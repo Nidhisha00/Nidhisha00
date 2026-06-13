@@ -47,8 +47,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Nidhisha00&theme=tokyonight)](https://git.io/streak-stats)
 
+## 👀 Profile Views
+![](https://komarev.com/ghpvc/?username=Nidhisha00&style=for-the-badge)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhisha00&theme=tokyonight&layout=compact&hide_border=false)
 
 
 
